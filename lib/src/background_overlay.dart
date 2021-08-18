@@ -2,6 +2,7 @@ library flutter_speed_dial;
 
 import 'package:flutter/material.dart';
 import 'global_key_extension.dart';
+import 'package:flutter/rendering.dart'
 
 class BackgroundOverlay extends AnimatedWidget {
   final Color color;
